@@ -1,4 +1,4 @@
-public class SubtractTwoNumbers {
+public class Subtract2Numbers {
     public static void main(String[] args) {
         // Define two numbers
         int number1 = 10;
